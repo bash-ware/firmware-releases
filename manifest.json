@@ -2,8 +2,8 @@
     "devices": {
         "MCKnob": {
             "pid": "9209",
-            "latest": "1.0.0",
-            "file": "firmware/MCKnob_v1.0.0.hex",
+            "latest": "1.0.1",
+            "file": "firmware/MCKnob_v1.0.1.hex",
             "date": "2026-02-28",
             "reportsVersion": false
         },
