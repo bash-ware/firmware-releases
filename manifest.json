@@ -9,9 +9,9 @@
         },
         "MicroMidi": {
             "pid": "920a",
-            "latest": null,
-            "file": null,
-            "date": null,
+            "latest": "2.1.0",
+            "file": "firmware/MicroMidi20_v2.1.0.hex",
+            "date": "2026-02-27",
             "reportsVersion": false
         },
         "CKnob": {
