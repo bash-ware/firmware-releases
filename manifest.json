@@ -1,0 +1,32 @@
+{
+    "devices": {
+        "MCKnob": {
+            "pid": "9209",
+            "latest": null,
+            "file": null,
+            "date": null,
+            "reportsVersion": false
+        },
+        "MicroMidi": {
+            "pid": "920a",
+            "latest": null,
+            "file": null,
+            "date": null,
+            "reportsVersion": false
+        },
+        "CKnob": {
+            "pid": "920b",
+            "latest": null,
+            "file": null,
+            "date": null,
+            "reportsVersion": false
+        },
+        "VAYU": {
+            "pid": "920c",
+            "latest": null,
+            "file": null,
+            "date": null,
+            "reportsVersion": false
+        }
+    }
+}
