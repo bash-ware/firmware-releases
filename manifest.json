@@ -2,9 +2,9 @@
     "devices": {
         "MCKnob": {
             "pid": "9209",
-            "latest": null,
-            "file": null,
-            "date": null,
+            "latest": "1.0.0",
+            "file": "firmware/MCKnob_v1.0.0.hex",
+            "date": "2026-02-28",
             "reportsVersion": false
         },
         "MicroMidi": {
