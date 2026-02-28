@@ -16,9 +16,9 @@
         },
         "CKnob": {
             "pid": "920b",
-            "latest": null,
-            "file": null,
-            "date": null,
+            "latest": "0.9.0",
+            "file": "firmware/CKnob_v0.9.0.hex",
+            "date": "2026-02-28",
             "reportsVersion": false
         },
         "VAYU": {
