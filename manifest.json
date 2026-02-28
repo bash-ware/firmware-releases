@@ -16,8 +16,8 @@
         },
         "CKnob": {
             "pid": "920b",
-            "latest": "0.9.0",
-            "file": "firmware/CKnob_v0.9.0.hex",
+            "latest": "0.9.1",
+            "file": "firmware/CKnob_v0.9.1.hex",
             "date": "2026-02-28",
             "reportsVersion": false
         },
