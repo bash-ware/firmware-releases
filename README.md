@@ -32,3 +32,4 @@ Each device entry contains:
 | MicroMidi | 920a | Active |
 | CKnob | 920b | Active |
 | VAYU | 920c | Active |
+| MKnob | 920d | Active |
